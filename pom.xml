@@ -9,7 +9,7 @@
     </parent>
 
 	<groupId>org.openmrs.module</groupId>
-	<artifactId>basicmodule</artifactId>
+	<artifactId>mphatsi</artifactId>
 	<version>0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<name>Basic Module</name>
@@ -18,9 +18,9 @@
 	<url>https://wiki.openmrs.org/x/FQ4z</url>
 
 	<scm>
-		<connection>scm:git:git@github.com:openmrs/openmrs-module-basicmodule.git</connection>
-		<developerConnection>scm:git:git@github.com:openmrs/openmrs-module-basicmodule.git</developerConnection>
-		<url>https://github.com/openmrs/openmrs-module-basicmodule/</url>
+		<connection>scm:git:git@github.com:openmrs/openmrs-module-mphatsi.git</connection>
+		<developerConnection>scm:git:git@github.com:openmrs/openmrs-module-mphatsi.git</developerConnection>
+		<url>https://github.com/openmrs/openmrs-module-mphatsi/</url>
 	</scm>
 
 	<modules>
