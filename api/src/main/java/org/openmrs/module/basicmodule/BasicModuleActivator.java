@@ -17,6 +17,8 @@ import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
 import org.openmrs.module.BaseModuleActivator;
 
+//test comment
+
 /**
  * This class contains the logic that is run every time this module is either started or shutdown
  */
